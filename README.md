@@ -4,7 +4,7 @@ Completed assignments/labs (except the final project) of CS50x
 
 ⚠️Do not cheat⚠️ with this repo! Keep in mind [CS50's academic honesty policy](https://cs50.harvard.edu/x/2023/honesty/).
 
-Course website: https://cs50.harvard.edu/x/2023/
+Course website: https://cs50.harvard.edu/x/2022/
 
 This course is: complete!
 
